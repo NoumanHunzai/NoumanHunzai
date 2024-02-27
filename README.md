@@ -20,7 +20,7 @@ phases.
   <img src="./icons/git.svg" height='50px'>
   <img src="./icons/terminal.png" height='50px'>
   <img src="./icons/nestjs.svg" height='50px'>
-  <img src="./icons/graphql.png" height='50px'>
+  <img src="./icons/graphql.svg" height='50px'>
  
   <img src="./icons/vs.svg" height='50px'>
   
